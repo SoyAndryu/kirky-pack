@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 3,
+  "version": 4,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-02T16:14:27.986Z",
+  "updated": "2026-11-02T16:26:32.762Z",
   "news": null,
   "mods": [
     {
@@ -88,8 +88,169 @@
       "file": "death_keeper-1.0b-fabric.jar",
       "category": "Contenido",
       "size": 48586,
-      "id": "702355213",
+      "id": "702384733",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/death_keeper-1.0b-fabric.jar"
+    },
+    {
+      "file": "extrasounds-1.5.6_1.20.1-fabric.jar",
+      "category": "Contenido",
+      "size": 376762,
+      "id": "702384817",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/extrasounds-1.5.6_1.20.1-fabric.jar"
+    },
+    {
+      "file": "extremo-1.0.0.jar",
+      "category": "Contenido",
+      "size": 48956,
+      "id": "702384913",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/extremo-1.0.0.jar"
+    },
+    {
+      "file": "fabric-language-kotlin-1.14.2_kotlin.2.4.21.jar",
+      "category": "Contenido",
+      "size": 8142878,
+      "id": "702385076",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fabric-language-kotlin-1.14.2_kotlin.2.4.21.jar"
+    },
+    {
+      "file": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "category": "Contenido",
+      "size": 396628,
+      "id": "702385900",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar"
+    },
+    {
+      "file": "fragmentum-5.4.0_1.20.1-fabric.jar",
+      "category": "Contenido",
+      "size": 9701162,
+      "id": "702386027",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fragmentum-5.4.0_1.20.1-fabric.jar"
+    },
+    {
+      "file": "funnymod.jar",
+      "category": "Contenido",
+      "size": 969885,
+      "id": "702386562",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/funnymod.jar"
+    },
+    {
+      "file": "GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+      "category": "Contenido",
+      "size": 322107,
+      "id": "702386722",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
+    },
+    {
+      "file": "hauntedharvest-1.20-3.2.0-fabric.jar",
+      "category": "Contenido",
+      "size": 653961,
+      "id": "702386883",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/hauntedharvest-1.20-3.2.0-fabric.jar"
+    },
+    {
+      "file": "iris-1.7.6_mc1.20.1.jar",
+      "category": "Contenido",
+      "size": 2726899,
+      "id": "702387012",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/iris-1.7.6_mc1.20.1.jar"
+    },
+    {
+      "file": "jei-1.20.1-fabric-15.74.0.233.jar",
+      "category": "Contenido",
+      "size": 4818521,
+      "id": "702387331",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/jei-1.20.1-fabric-15.74.0.233.jar"
+    },
+    {
+      "file": "kirkycoin-1.0.0.jar",
+      "category": "Contenido",
+      "size": 216945,
+      "id": "702387733",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkycoin-1.0.0.jar"
+    },
+    {
+      "file": "kirkywelcome-1.0.0.jar",
+      "category": "Contenido",
+      "size": 203753,
+      "id": "702387871",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkywelcome-1.0.0.jar"
+    },
+    {
+      "file": "letsdo-furniture-fabric-1.0.4.jar",
+      "category": "Contenido",
+      "size": 2801344,
+      "id": "702387972",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/letsdo-furniture-fabric-1.0.4.jar"
+    },
+    {
+      "file": "loot_journal-fabric-1.20.1-6.2.2.jar",
+      "category": "Contenido",
+      "size": 308582,
+      "id": "702388293",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/loot_journal-fabric-1.20.1-6.2.2.jar"
+    },
+    {
+      "file": "midnightlib-fabric-1.9.3_1.20.1.jar",
+      "category": "Contenido",
+      "size": 59401,
+      "id": "702388463",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/midnightlib-fabric-1.9.3_1.20.1.jar"
+    },
+    {
+      "file": "mysticsbiomes-fabric-1.20.1-3.5.2.jar",
+      "category": "Contenido",
+      "size": 1846318,
+      "id": "702388588",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/mysticsbiomes-fabric-1.20.1-3.5.2.jar"
+    },
+    {
+      "file": "npc_watchers-1.0.0.jar",
+      "category": "Contenido",
+      "size": 490371,
+      "id": "702388820",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/npc_watchers-1.0.0.jar"
+    },
+    {
+      "file": "player-locator-plus-2.2.0.jar",
+      "category": "Contenido",
+      "size": 4428772,
+      "id": "702388937",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/player-locator-plus-2.2.0.jar"
+    },
+    {
+      "file": "popupmod-1.0.0.jar",
+      "category": "Contenido",
+      "size": 42594,
+      "id": "702389243",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/popupmod-1.0.0.jar"
+    },
+    {
+      "file": "portfolio-1.20.1-1.5.0-fabric.jar",
+      "category": "Contenido",
+      "size": 362399,
+      "id": "702389310",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/portfolio-1.20.1-1.5.0-fabric.jar"
+    },
+    {
+      "file": "Quick_Skin_-_Fabric_-_1.20.1-3.1.1.jar",
+      "category": "Contenido",
+      "size": 5481028,
+      "id": "702389423",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/Quick_Skin_-_Fabric_-_1.20.1-3.1.1.jar"
+    },
+    {
+      "file": "resonance-1.0.0.jar",
+      "category": "Contenido",
+      "size": 31731,
+      "id": "702389757",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/resonance-1.0.0.jar"
+    },
+    {
+      "file": "ricksportalgun-fabric-1.20.1-1.4.10.jar",
+      "category": "Contenido",
+      "size": 570774,
+      "id": "702389839",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/ricksportalgun-fabric-1.20.1-1.4.10.jar"
     },
     {
       "file": "rottenflesh-to-leather_1-20-x.jar",
@@ -97,6 +258,90 @@
       "size": 19700,
       "id": "702352768",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/rottenflesh-to-leather_1-20-x.jar"
+    },
+    {
+      "file": "scholar-1.20.1-1.2.9-fabric.jar",
+      "category": "Contenido",
+      "size": 835113,
+      "id": "702389970",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/scholar-1.20.1-1.2.9-fabric.jar"
+    },
+    {
+      "file": "SereneSeasons-fabric-1.20.1-9.1.0.3.jar",
+      "category": "Contenido",
+      "size": 383980,
+      "id": "702390109",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/SereneSeasons-fabric-1.20.1-9.1.0.3.jar"
+    },
+    {
+      "file": "snowyspirit-1.20-3.0.10-fabric.jar",
+      "category": "Contenido",
+      "size": 5315563,
+      "id": "702390214",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/snowyspirit-1.20-3.0.10-fabric.jar"
+    },
+    {
+      "file": "trinkets-3.7.2.jar",
+      "category": "Contenido",
+      "size": 238532,
+      "id": "702390554",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/trinkets-3.7.2.jar"
+    },
+    {
+      "file": "twigs-3.1.0-fabric.jar",
+      "category": "Contenido",
+      "size": 2958651,
+      "id": "702390623",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/twigs-3.1.0-fabric.jar"
+    },
+    {
+      "file": "undertale-dialogue-1.3.0.jar",
+      "category": "Contenido",
+      "size": 56814,
+      "id": "702390765",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/undertale-dialogue-1.3.0.jar"
+    },
+    {
+      "file": "voicechat-fabric-1.20.1-2.6.24.jar",
+      "category": "Contenido",
+      "size": 5296614,
+      "id": "702390866",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/voicechat-fabric-1.20.1-2.6.24.jar"
+    },
+    {
+      "file": "waterballoon-fabric-1.20.1-1.0.3.jar",
+      "category": "Contenido",
+      "size": 124975,
+      "id": "702391326",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/waterballoon-fabric-1.20.1-1.0.3.jar"
+    },
+    {
+      "file": "worldedit-mod-7.2.15.jar",
+      "category": "Contenido",
+      "size": 5825402,
+      "id": "702391419",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/worldedit-mod-7.2.15.jar"
+    },
+    {
+      "file": "xercapaint-fabric-1.20.1-2.0.0.jar",
+      "category": "Contenido",
+      "size": 425164,
+      "id": "702391685",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/xercapaint-fabric-1.20.1-2.0.0.jar"
+    },
+    {
+      "file": "yk-implementations-1.1.0.jar",
+      "category": "Contenido",
+      "size": 45956,
+      "id": "702391774",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/yk-implementations-1.1.0.jar"
+    },
+    {
+      "file": "zoomify-2.15.2_1.20.1.jar",
+      "category": "Contenido",
+      "size": 871089,
+      "id": "702391876",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/zoomify-2.15.2_1.20.1.jar"
     },
     {
       "file": "architectury-9.2.14-fabric.jar",
