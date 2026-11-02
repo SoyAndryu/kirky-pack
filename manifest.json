@@ -1,15 +1,18 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 1,
+  "version": 2,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-02T16:01:00.037Z",
-  "news": {
-    "id": "mvzg4g3g",
-    "title": "azsfd",
-    "description": "sss",
-    "date": "2026-11-02T16:01:00.028Z"
-  },
-  "mods": []
+  "updated": "2026-11-02T16:11:52.643Z",
+  "news": null,
+  "mods": [
+    {
+      "file": "TerraBlender-fabric-1.20.1-3.0.1.11.jar",
+      "category": "Librerías",
+      "size": 322417,
+      "id": "702347679",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/TerraBlender-fabric-1.20.1-3.0.1.11.jar"
+    }
+  ]
 }
