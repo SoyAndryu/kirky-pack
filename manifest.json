@@ -1,18 +1,249 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 2,
+  "version": 3,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-02T16:11:52.643Z",
+  "updated": "2026-11-02T16:14:27.986Z",
   "news": null,
   "mods": [
+    {
+      "file": "another_furniture-fabric-1.20.1-3.0.5.jar",
+      "category": "Contenido",
+      "size": 2291815,
+      "id": "702352827",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/another_furniture-fabric-1.20.1-3.0.5.jar"
+    },
+    {
+      "file": "appleskin-fabric-mc1.20.1-2.5.2.jar",
+      "category": "Contenido",
+      "size": 1097240,
+      "id": "702352981",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/appleskin-fabric-mc1.20.1-2.5.2.jar"
+    },
+    {
+      "file": "artifacts-fabric-9.5.17.jar",
+      "category": "Contenido",
+      "size": 960096,
+      "id": "702353090",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/artifacts-fabric-9.5.17.jar"
+    },
+    {
+      "file": "automobility-0.4.2_1.20.1-fabric.jar",
+      "category": "Contenido",
+      "size": 1108056,
+      "id": "702353269",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/automobility-0.4.2_1.20.1-fabric.jar"
+    },
+    {
+      "file": "avisohud-1.0.0.jar",
+      "category": "Contenido",
+      "size": 23725,
+      "id": "702353416",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/avisohud-1.0.0.jar"
+    },
+    {
+      "file": "bf_blockpack-fabric-1.20.1-1.1.2.jar",
+      "category": "Contenido",
+      "size": 9718759,
+      "id": "702353539",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/bf_blockpack-fabric-1.20.1-1.1.2.jar"
+    },
+    {
+      "file": "bountifulfares-1.2.1-1.20.1.jar",
+      "category": "Contenido",
+      "size": 4829694,
+      "id": "702354189",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/bountifulfares-1.2.1-1.20.1.jar"
+    },
+    {
+      "file": "Camerapture-1.10.12_mc1.20.1-fabric.jar",
+      "category": "Contenido",
+      "size": 1974800,
+      "id": "702354465",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/Camerapture-1.10.12_mc1.20.1-fabric.jar"
+    },
+    {
+      "file": "codxlib-1.6.1-fabric_1.20.1.jar",
+      "category": "Contenido",
+      "size": 185824,
+      "id": "702354752",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/codxlib-1.6.1-fabric_1.20.1.jar"
+    },
+    {
+      "file": "CustomPlayerModels-Fabric-1.20-0.6.27a.jar",
+      "category": "Contenido",
+      "size": 2847779,
+      "id": "702354881",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/CustomPlayerModels-Fabric-1.20-0.6.27a.jar"
+    },
+    {
+      "file": "customskyboxes-mc1_20_1-1.0.3.1.jar",
+      "category": "Contenido",
+      "size": 104585,
+      "id": "702355124",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/customskyboxes-mc1_20_1-1.0.3.1.jar"
+    },
+    {
+      "file": "death_keeper-1.0b-fabric.jar",
+      "category": "Contenido",
+      "size": 48586,
+      "id": "702355213",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/death_keeper-1.0b-fabric.jar"
+    },
+    {
+      "file": "rottenflesh-to-leather_1-20-x.jar",
+      "category": "Contenido",
+      "size": 19700,
+      "id": "702352768",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/rottenflesh-to-leather_1-20-x.jar"
+    },
+    {
+      "file": "architectury-9.2.14-fabric.jar",
+      "category": "Librerías",
+      "size": 585207,
+      "id": "702350393",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/architectury-9.2.14-fabric.jar"
+    },
+    {
+      "file": "cloth-config-11.1.136-fabric.jar",
+      "category": "Librerías",
+      "size": 1172214,
+      "id": "702350493",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cloth-config-11.1.136-fabric.jar"
+    },
+    {
+      "file": "fabric-api-0.92.12_1.20.1.jar",
+      "category": "Librerías",
+      "size": 2137232,
+      "id": "702350623",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fabric-api-0.92.12_1.20.1.jar"
+    },
+    {
+      "file": "geckolib-fabric-1.20.1-4.8.4.jar",
+      "category": "Librerías",
+      "size": 969016,
+      "id": "702350804",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/geckolib-fabric-1.20.1-4.8.4.jar"
+    },
+    {
+      "file": "moonlight-1.20-2.16.37-fabric.jar",
+      "category": "Librerías",
+      "size": 1393625,
+      "id": "702350936",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/moonlight-1.20-2.16.37-fabric.jar"
+    },
+    {
+      "file": "Platform-fabric-1.20.1-1.4.jar",
+      "category": "Librerías",
+      "size": 1045778,
+      "id": "702351213",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/Platform-fabric-1.20.1-1.4.jar"
+    },
     {
       "file": "TerraBlender-fabric-1.20.1-3.0.1.11.jar",
       "category": "Librerías",
       "size": 322417,
       "id": "702347679",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/TerraBlender-fabric-1.20.1-3.0.1.11.jar"
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.6.6_1.20.1-fabric.jar",
+      "category": "Librerías",
+      "size": 1294234,
+      "id": "702351355",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/yet_another_config_lib_v3-3.6.6_1.20.1-fabric.jar"
+    },
+    {
+      "file": "BadOptimizations-2.4.1-1.20.1.jar",
+      "category": "Optimización",
+      "size": 460234,
+      "id": "702351521",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/BadOptimizations-2.4.1-1.20.1.jar"
+    },
+    {
+      "file": "Chunky-1.3.146.jar",
+      "category": "Optimización",
+      "size": 344004,
+      "id": "702351641",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/Chunky-1.3.146.jar"
+    },
+    {
+      "file": "CleanF3-0.4.10.jar",
+      "category": "Optimización",
+      "size": 18863,
+      "id": "702351769",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/CleanF3-0.4.10.jar"
+    },
+    {
+      "file": "dynamic-fps-3.11.4_minecraft-1.20.0-fabric.jar",
+      "category": "Optimización",
+      "size": 223261,
+      "id": "702351848",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/dynamic-fps-3.11.4_minecraft-1.20.0-fabric.jar"
+    },
+    {
+      "file": "entityculling-fabric-1.11.3-mc1.20.1.jar",
+      "category": "Optimización",
+      "size": 1516696,
+      "id": "702351926",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/entityculling-fabric-1.11.3-mc1.20.1.jar"
+    },
+    {
+      "file": "ferritecore-6.0.1-fabric.jar",
+      "category": "Optimización",
+      "size": 125197,
+      "id": "702352029",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/ferritecore-6.0.1-fabric.jar"
+    },
+    {
+      "file": "ImmediatelyFast-Fabric-1.5.5_1.20.4.jar",
+      "category": "Optimización",
+      "size": 348818,
+      "id": "702352145",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/ImmediatelyFast-Fabric-1.5.5_1.20.4.jar"
+    },
+    {
+      "file": "lithium-fabric-mc1.20.1-0.11.4.jar",
+      "category": "Optimización",
+      "size": 691483,
+      "id": "702352244",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/lithium-fabric-mc1.20.1-0.11.4.jar"
+    },
+    {
+      "file": "modernfix-fabric-5.25.2_mc1.20.1.jar",
+      "category": "Optimización",
+      "size": 545175,
+      "id": "702352377",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/modernfix-fabric-5.25.2_mc1.20.1.jar"
+    },
+    {
+      "file": "notenoughcrashes-4.4.9_1.20.1-fabric.jar",
+      "category": "Optimización",
+      "size": 138548,
+      "id": "702352476",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/notenoughcrashes-4.4.9_1.20.1-fabric.jar"
+    },
+    {
+      "file": "reeses_sodium_options-1.7.2_mc1.20.1-build.101.jar",
+      "category": "Optimización",
+      "size": 77304,
+      "id": "702352535",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/reeses_sodium_options-1.7.2_mc1.20.1-build.101.jar"
+    },
+    {
+      "file": "sodium-extra-0.5.9_mc1.20.1.jar",
+      "category": "Optimización",
+      "size": 370701,
+      "id": "702352590",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/sodium-extra-0.5.9_mc1.20.1.jar"
+    },
+    {
+      "file": "sodium-fabric-0.5.13_mc1.20.1.jar",
+      "category": "Optimización",
+      "size": 971552,
+      "id": "702352664",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/sodium-fabric-0.5.13_mc1.20.1.jar"
     }
   ]
 }
