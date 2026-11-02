@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 4,
+  "version": 5,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-02T16:26:32.762Z",
+  "updated": "2026-11-02T23:05:57.756Z",
   "news": null,
   "mods": [
     {
@@ -337,13 +337,6 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/yk-implementations-1.1.0.jar"
     },
     {
-      "file": "zoomify-2.15.2_1.20.1.jar",
-      "category": "Contenido",
-      "size": 871089,
-      "id": "702391876",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/zoomify-2.15.2_1.20.1.jar"
-    },
-    {
       "file": "architectury-9.2.14-fabric.jar",
       "category": "Librerías",
       "size": 585207,
@@ -490,5 +483,6 @@
       "id": "702352664",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/sodium-fabric-0.5.13_mc1.20.1.jar"
     }
-  ]
+  ],
+  "configs": []
 }
