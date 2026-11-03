@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 9,
+  "version": 10,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T03:10:42.203Z",
+  "updated": "2026-11-03T03:15:16.027Z",
   "news": {
-    "id": "mw041ous",
-    "title": "Hola arcade estoy testeando algo",
-    "description": "CARGA PERSONALIZADA",
-    "date": "2026-11-03T03:10:42.196Z"
+    "id": "mw047k57",
+    "title": "ME OLVIDE AÑADIR LAS API",
+    "description": "",
+    "date": "2026-11-03T03:15:16.027Z"
   },
   "mods": [
     {
@@ -202,6 +202,13 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkywelcome-1.0.0.jar"
     },
     {
+      "file": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "category": "Contenido",
+      "size": 892067,
+      "id": "704084096",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+    },
+    {
       "file": "letsdo-furniture-fabric-1.0.4.jar",
       "category": "Contenido",
       "size": 2801344,
@@ -214,6 +221,13 @@
       "size": 308582,
       "id": "702388293",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/loot_journal-fabric-1.20.1-6.2.2.jar"
+    },
+    {
+      "file": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "category": "Contenido",
+      "size": 39696,
+      "id": "704084036",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
     },
     {
       "file": "midnightlib-fabric-1.9.3_1.20.1.jar",
