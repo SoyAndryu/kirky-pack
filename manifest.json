@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 18,
+  "version": 19,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T21:01:08.021Z",
+  "updated": "2026-11-03T21:09:44.079Z",
   "news": {
-    "id": "mw16a9th",
-    "title": "Añadir",
-    "description": "AÑADI SISTEMA DE VIDAS",
-    "date": "2026-11-03T21:01:08.021Z"
+    "id": "mw16lc0f",
+    "title": "AAAAAAAAAAAAAA",
+    "description": "",
+    "date": "2026-11-03T21:09:44.079Z"
   },
   "mods": [
     {
@@ -121,7 +121,7 @@
       "file": "extremo-1.0.0.jar",
       "category": "Contenido",
       "size": 978877,
-      "id": "707079491",
+      "id": "707104835",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/extremo-1.0.0.jar"
     },
     {
