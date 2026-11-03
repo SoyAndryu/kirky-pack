@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 10,
+  "version": 11,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T03:15:16.027Z",
+  "updated": "2026-11-03T04:14:57.432Z",
   "news": {
-    "id": "mw047k57",
-    "title": "ME OLVIDE AÑADIR LAS API",
+    "id": "mw06cbkk",
+    "title": "RESONANCE CONFIG",
     "description": "",
-    "date": "2026-11-03T03:15:16.027Z"
+    "date": "2026-11-03T04:14:57.428Z"
   },
   "mods": [
     {
@@ -531,5 +531,13 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/sodium-fabric-0.5.13_mc1.20.1.jar"
     }
   ],
-  "configs": []
+  "configs": [
+    {
+      "path": "resonance/songs/shop_theme.ogg",
+      "file": "cfg-035d93f0-shop_theme.ogg",
+      "size": 1824065,
+      "id": "704245431",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-035d93f0-shop_theme.ogg"
+    }
+  ]
 }
