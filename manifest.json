@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 15,
+  "version": 16,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T19:49:50.302Z",
+  "updated": "2026-11-03T19:53:26.889Z",
   "news": {
-    "id": "mw13ql3u",
-    "title": "AÑADIDOS",
-    "description": "- Sistema Vida AUDIOS\n- Wumpus\n- Marge",
-    "date": "2026-11-03T19:49:50.298Z"
+    "id": "mw13v888",
+    "title": "ACTUALIZACION DE CONTENIDO",
+    "description": "- Jennys mod fue removido",
+    "date": "2026-11-03T19:53:26.888Z"
   },
   "mods": [
     {
