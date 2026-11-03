@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 16,
+  "version": 17,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T19:53:26.889Z",
+  "updated": "2026-11-03T20:13:22.204Z",
   "news": {
-    "id": "mw13v888",
-    "title": "ACTUALIZACION DE CONTENIDO",
-    "description": "- Jennys mod fue removido",
-    "date": "2026-11-03T19:53:26.888Z"
+    "id": "mw14kuj9",
+    "title": "FIXES",
+    "description": "UPDATE DE KIRKYCOIN?????!!!!!!!!!",
+    "date": "2026-11-03T20:13:22.198Z"
   },
   "mods": [
     {
@@ -120,8 +120,8 @@
     {
       "file": "extremo-1.0.0.jar",
       "category": "Contenido",
-      "size": 902618,
-      "id": "706878020",
+      "size": 798926,
+      "id": "706947400",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/extremo-1.0.0.jar"
     },
     {
@@ -190,8 +190,8 @@
     {
       "file": "kirkycoin-1.0.0.jar",
       "category": "Contenido",
-      "size": 216945,
-      "id": "702387733",
+      "size": 242190,
+      "id": "706947563",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkycoin-1.0.0.jar"
     },
     {
@@ -246,8 +246,8 @@
     {
       "file": "npc_watchers-1.0.0.jar",
       "category": "Contenido",
-      "size": 536088,
-      "id": "706878197",
+      "size": 537037,
+      "id": "706947728",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/npc_watchers-1.0.0.jar"
     },
     {
