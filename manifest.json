@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 13,
+  "version": 14,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T04:29:50.484Z",
+  "updated": "2026-11-03T04:31:34.944Z",
   "news": {
-    "id": "mw06vgnn",
-    "title": "NO PUSE AVISO",
-    "description": "ASD",
-    "date": "2026-11-03T04:29:50.483Z"
+    "id": "mw06xp9c",
+    "title": "NUEVO MOD",
+    "description": "Jei",
+    "date": "2026-11-03T04:31:34.944Z"
   },
   "mods": [
     {
@@ -532,6 +532,69 @@
     }
   ],
   "configs": [
+    {
+      "path": "jei/blacklist.json",
+      "file": "cfg-d59defe1-blacklist.json",
+      "size": 19,
+      "id": "704291425",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-d59defe1-blacklist.json"
+    },
+    {
+      "path": "jei/client/default/jei-client.ini",
+      "file": "cfg-66c05cf2-jei-client.ini",
+      "size": 16999,
+      "id": "704291456",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-66c05cf2-jei-client.ini"
+    },
+    {
+      "path": "jei/client/default/jei-colors.ini",
+      "file": "cfg-828cc4fd-jei-colors.ini",
+      "size": 1655,
+      "id": "704291498",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-828cc4fd-jei-colors.ini"
+    },
+    {
+      "path": "jei/client/default/jei-debug.ini",
+      "file": "cfg-0841410c-jei-debug.ini",
+      "size": 1174,
+      "id": "704291527",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-0841410c-jei-debug.ini"
+    },
+    {
+      "path": "jei/client/default/jei-mod-id-format.ini",
+      "file": "cfg-88c65209-jei-mod-id-format.ini",
+      "size": 863,
+      "id": "704291559",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-88c65209-jei-mod-id-format.ini"
+    },
+    {
+      "path": "jei/client/ingredient-list-mod-sort-order.ini",
+      "file": "cfg-fcce25a7-ingredient-list-mod-sort-order.ini",
+      "size": 428,
+      "id": "704291599",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-fcce25a7-ingredient-list-mod-sort-order.ini"
+    },
+    {
+      "path": "jei/client/ingredient-list-type-sort-order.ini",
+      "file": "cfg-c56a1e25-ingredient-list-type-sort-order.ini",
+      "size": 111,
+      "id": "704291633",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-c56a1e25-ingredient-list-type-sort-order.ini"
+    },
+    {
+      "path": "jei/client/recipe-category-sort-order.ini",
+      "file": "cfg-9d30a1fd-recipe-category-sort-order.ini",
+      "size": 479,
+      "id": "704291681",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-9d30a1fd-recipe-category-sort-order.ini"
+    },
+    {
+      "path": "jei/server/world/default/jei-server.ini",
+      "file": "cfg-0152c58f-jei-server.ini",
+      "size": 760,
+      "id": "704291727",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-0152c58f-jei-server.ini"
+    },
     {
       "path": "resonance/songs/shop_theme.ogg",
       "file": "cfg-035d93f0-shop_theme.ogg",
