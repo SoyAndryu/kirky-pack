@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 14,
+  "version": 15,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T04:31:34.944Z",
+  "updated": "2026-11-03T19:49:50.302Z",
   "news": {
-    "id": "mw06xp9c",
-    "title": "NUEVO MOD",
-    "description": "Jei",
-    "date": "2026-11-03T04:31:34.944Z"
+    "id": "mw13ql3u",
+    "title": "AÑADIDOS",
+    "description": "- Sistema Vida AUDIOS\n- Wumpus\n- Marge",
+    "date": "2026-11-03T19:49:50.298Z"
   },
   "mods": [
     {
@@ -120,8 +120,8 @@
     {
       "file": "extremo-1.0.0.jar",
       "category": "Contenido",
-      "size": 48956,
-      "id": "702384913",
+      "size": 902618,
+      "id": "706878020",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/extremo-1.0.0.jar"
     },
     {
@@ -246,8 +246,8 @@
     {
       "file": "npc_watchers-1.0.0.jar",
       "category": "Contenido",
-      "size": 490371,
-      "id": "702388820",
+      "size": 536088,
+      "id": "706878197",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/npc_watchers-1.0.0.jar"
     },
     {
