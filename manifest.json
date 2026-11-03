@@ -1,16 +1,11 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 12,
+  "version": 13,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T04:24:15.281Z",
-  "news": {
-    "id": "mw06oa0h",
-    "title": "Siento que a los news",
-    "description": "les saldran todos estos avisos de golpe",
-    "date": "2026-11-03T04:24:15.281Z"
-  },
+  "updated": "2026-11-03T04:28:33.887Z",
+  "news": null,
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -532,6 +527,13 @@
     }
   ],
   "configs": [
+    {
+      "path": "popupmod/popups.json",
+      "file": "cfg-2a695a31-popups.json",
+      "size": 422,
+      "id": "704284391",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-2a695a31-popups.json"
+    },
     {
       "path": "resonance/songs/shop_theme.ogg",
       "file": "cfg-035d93f0-shop_theme.ogg",
