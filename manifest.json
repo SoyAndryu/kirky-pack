@@ -4,12 +4,12 @@
   "version": 18,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T20:59:44.027Z",
+  "updated": "2026-11-03T21:01:08.021Z",
   "news": {
-    "id": "mw168h07",
-    "title": "quite",
-    "description": "el sistema de vidas espera",
-    "date": "2026-11-03T20:59:44.023Z"
+    "id": "mw16a9th",
+    "title": "Añadir",
+    "description": "AÑADI SISTEMA DE VIDAS",
+    "date": "2026-11-03T21:01:08.021Z"
   },
   "mods": [
     {
@@ -116,6 +116,13 @@
       "size": 376762,
       "id": "702384817",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/extrasounds-1.5.6_1.20.1-fabric.jar"
+    },
+    {
+      "file": "extremo-1.0.0.jar",
+      "category": "Contenido",
+      "size": 978877,
+      "id": "707079491",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/extremo-1.0.0.jar"
     },
     {
       "file": "fabric-language-kotlin-1.14.2_kotlin.2.4.21.jar",
