@@ -4,8 +4,13 @@
   "version": 13,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T04:28:33.887Z",
-  "news": null,
+  "updated": "2026-11-03T04:29:50.484Z",
+  "news": {
+    "id": "mw06vgnn",
+    "title": "NO PUSE AVISO",
+    "description": "ASD",
+    "date": "2026-11-03T04:29:50.483Z"
+  },
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -527,13 +532,6 @@
     }
   ],
   "configs": [
-    {
-      "path": "popupmod/popups.json",
-      "file": "cfg-2a695a31-popups.json",
-      "size": 422,
-      "id": "704284391",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/cfg-2a695a31-popups.json"
-    },
     {
       "path": "resonance/songs/shop_theme.ogg",
       "file": "cfg-035d93f0-shop_theme.ogg",
