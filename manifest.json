@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 8,
+  "version": 9,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-02T23:16:34.512Z",
+  "updated": "2026-11-03T03:10:42.203Z",
   "news": {
-    "id": "mvzvoll9",
-    "title": "Test",
-    "description": "HOLA",
-    "date": "2026-11-02T23:16:34.509Z"
+    "id": "mw041ous",
+    "title": "Hola arcade estoy testeando algo",
+    "description": "CARGA PERSONALIZADA",
+    "date": "2026-11-03T03:10:42.196Z"
   },
   "mods": [
     {
@@ -104,6 +104,13 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/death_keeper-1.0b-fabric.jar"
     },
     {
+      "file": "drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar",
+      "category": "Contenido",
+      "size": 277393,
+      "id": "704072670",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar"
+    },
+    {
       "file": "extrasounds-1.5.6_1.20.1-fabric.jar",
       "category": "Contenido",
       "size": 376762,
@@ -123,6 +130,13 @@
       "size": 8142878,
       "id": "702385076",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fabric-language-kotlin-1.14.2_kotlin.2.4.21.jar"
+    },
+    {
+      "file": "fancymenu_fabric_3.9.14_MC_1.20.1.jar",
+      "category": "Contenido",
+      "size": 26225066,
+      "id": "704072728",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fancymenu_fabric_3.9.14_MC_1.20.1.jar"
     },
     {
       "file": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
