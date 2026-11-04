@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 19,
+  "version": 20,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-03T21:09:44.079Z",
+  "updated": "2026-11-04T21:39:14.046Z",
   "news": {
-    "id": "mw16lc0f",
-    "title": "AAAAAAAAAAAAAA",
+    "id": "mw2n34e0",
+    "title": "TEST",
     "description": "",
-    "date": "2026-11-03T21:09:44.079Z"
+    "date": "2026-11-04T21:39:14.040Z"
   },
   "mods": [
     {
