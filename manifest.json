@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 22,
+  "version": 23,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-05T23:26:13.932Z",
+  "updated": "2026-11-05T23:26:32.060Z",
   "news": {
-    "id": "mw46ckoc",
-    "title": "CRISTAL aunno",
+    "id": "mw46cynw",
+    "title": "CRISTALsi",
     "description": "",
-    "date": "2026-11-05T23:26:13.932Z"
+    "date": "2026-11-05T23:26:32.060Z"
   },
   "mods": [
     {
@@ -193,6 +193,13 @@
       "size": 4818521,
       "id": "702387331",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/jei-1.20.1-fabric-15.74.0.233.jar"
+    },
+    {
+      "file": "kirkycoin-1.0.0.jar",
+      "category": "Contenido",
+      "size": 298473,
+      "id": "715188015",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkycoin-1.0.0.jar"
     },
     {
       "file": "kirkywelcome-1.0.0.jar",
