@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 23,
+  "version": 24,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-05T23:26:32.060Z",
+  "updated": "2026-11-05T23:39:37.620Z",
   "news": {
-    "id": "mw46cynw",
-    "title": "CRISTALsi",
+    "id": "mw46tssz",
+    "title": "si",
     "description": "",
-    "date": "2026-11-05T23:26:32.060Z"
+    "date": "2026-11-05T23:39:37.619Z"
   },
   "mods": [
     {
@@ -197,8 +197,8 @@
     {
       "file": "kirkycoin-1.0.0.jar",
       "category": "Contenido",
-      "size": 298473,
-      "id": "715188015",
+      "size": 297659,
+      "id": "715220146",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkycoin-1.0.0.jar"
     },
     {
