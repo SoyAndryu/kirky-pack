@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 21,
+  "version": 22,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-05T01:27:06.719Z",
+  "updated": "2026-11-05T23:26:13.932Z",
   "news": {
-    "id": "mw2v86am",
-    "title": "UPSI",
-    "description": "olvide meter world guard",
-    "date": "2026-11-05T01:27:06.718Z"
+    "id": "mw46ckoc",
+    "title": "CRISTAL aunno",
+    "description": "",
+    "date": "2026-11-05T23:26:13.932Z"
   },
   "mods": [
     {
@@ -193,13 +193,6 @@
       "size": 4818521,
       "id": "702387331",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/jei-1.20.1-fabric-15.74.0.233.jar"
-    },
-    {
-      "file": "kirkycoin-1.0.0.jar",
-      "category": "Contenido",
-      "size": 242190,
-      "id": "706947563",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkycoin-1.0.0.jar"
     },
     {
       "file": "kirkywelcome-1.0.0.jar",
