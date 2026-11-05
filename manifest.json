@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 20,
+  "version": 21,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-04T21:39:54.769Z",
+  "updated": "2026-11-05T01:27:06.719Z",
   "news": {
-    "id": "mw2n3ztd",
-    "title": "hola test",
-    "description": "sss",
-    "date": "2026-11-04T21:39:54.769Z"
+    "id": "mw2v86am",
+    "title": "UPSI",
+    "description": "olvide meter world guard",
+    "date": "2026-11-05T01:27:06.718Z"
   },
   "mods": [
     {
@@ -130,6 +130,13 @@
       "size": 8142878,
       "id": "702385076",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fabric-language-kotlin-1.14.2_kotlin.2.4.21.jar"
+    },
+    {
+      "file": "fabricguard-1.6.2_1_.jar",
+      "category": "Contenido",
+      "size": 124618,
+      "id": "711604133",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fabricguard-1.6.2_1_.jar"
     },
     {
       "file": "fancymenu_fabric_3.9.14_MC_1.20.1.jar",
