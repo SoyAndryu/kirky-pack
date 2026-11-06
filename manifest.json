@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 25,
+  "version": 26,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-06T20:32:44.511Z",
+  "updated": "2026-11-06T20:44:17.085Z",
   "news": null,
   "mods": [
     {
@@ -73,8 +73,8 @@
     {
       "file": "chimptopia-1.0.0.jar",
       "category": "Contenido",
-      "size": 437920,
-      "id": "718471061",
+      "size": 437915,
+      "id": "718502680",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/chimptopia-1.0.0.jar"
     },
     {
