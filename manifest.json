@@ -1,16 +1,11 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 24,
+  "version": 25,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-05T23:39:37.620Z",
-  "news": {
-    "id": "mw46tssz",
-    "title": "si",
-    "description": "",
-    "date": "2026-11-05T23:39:37.619Z"
-  },
+  "updated": "2026-11-06T20:32:44.511Z",
+  "news": null,
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -74,6 +69,13 @@
       "size": 1974800,
       "id": "702354465",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/Camerapture-1.10.12_mc1.20.1-fabric.jar"
+    },
+    {
+      "file": "chimptopia-1.0.0.jar",
+      "category": "Contenido",
+      "size": 437920,
+      "id": "718471061",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/chimptopia-1.0.0.jar"
     },
     {
       "file": "codxlib-1.6.1-fabric_1.20.1.jar",
