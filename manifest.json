@@ -1,11 +1,16 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 26,
+  "version": 27,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-06T20:44:17.085Z",
-  "news": null,
+  "updated": "2026-11-06T22:00:04.587Z",
+  "news": {
+    "id": "mw5ipmnf",
+    "title": "UPDATE",
+    "description": "Arcade",
+    "date": "2026-11-06T22:00:04.587Z"
+  },
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -50,6 +55,13 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/avisohud-1.0.0.jar"
     },
     {
+      "file": "bettertab-2.1.0_1.20.1.jar",
+      "category": "Contenido",
+      "size": 49699,
+      "id": "718703300",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/bettertab-2.1.0_1.20.1.jar"
+    },
+    {
       "file": "bf_blockpack-fabric-1.20.1-1.1.2.jar",
       "category": "Contenido",
       "size": 9718759,
@@ -69,6 +81,20 @@
       "size": 1974800,
       "id": "702354465",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/Camerapture-1.10.12_mc1.20.1-fabric.jar"
+    },
+    {
+      "file": "ChatAbove-1.0.jar",
+      "category": "Contenido",
+      "size": 52270,
+      "id": "718703937",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/ChatAbove-1.0.jar"
+    },
+    {
+      "file": "ChatReworked-fabric-1.20.1-1.3.5.jar",
+      "category": "Contenido",
+      "size": 467446,
+      "id": "718703987",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/ChatReworked-fabric-1.20.1-1.3.5.jar"
     },
     {
       "file": "chimptopia-1.0.0.jar",
@@ -148,6 +174,13 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fancymenu_fabric_3.9.14_MC_1.20.1.jar"
     },
     {
+      "file": "faunify-fabric-1.20.1-1.3.3.jar",
+      "category": "Contenido",
+      "size": 5654847,
+      "id": "718704064",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/faunify-fabric-1.20.1-1.3.3.jar"
+    },
+    {
       "file": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
       "category": "Contenido",
       "size": 396628,
@@ -176,11 +209,32 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
     },
     {
+      "file": "gravestones-1.4.2_1.20_A.jar",
+      "category": "Contenido",
+      "size": 289788,
+      "id": "718704526",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/gravestones-1.4.2_1.20_A.jar"
+    },
+    {
       "file": "hauntedharvest-1.20-3.2.0-fabric.jar",
       "category": "Contenido",
       "size": 653961,
       "id": "702386883",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/hauntedharvest-1.20-3.2.0-fabric.jar"
+    },
+    {
+      "file": "hexalia-1.3.8.2-1.20.1_fabric.jar",
+      "category": "Contenido",
+      "size": 4075959,
+      "id": "718704612",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/hexalia-1.3.8.2-1.20.1_fabric.jar"
+    },
+    {
+      "file": "InvView-1.4.12-1.20_.jar",
+      "category": "Contenido",
+      "size": 159796,
+      "id": "718703354",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/InvView-1.4.12-1.20_.jar"
     },
     {
       "file": "iris-1.7.6_mc1.20.1.jar",
@@ -246,11 +300,25 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/midnightlib-fabric-1.9.3_1.20.1.jar"
     },
     {
+      "file": "mobcatalog-1.0.8_1.20.1.jar",
+      "category": "Contenido",
+      "size": 511778,
+      "id": "718704995",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/mobcatalog-1.0.8_1.20.1.jar"
+    },
+    {
       "file": "mysticsbiomes-fabric-1.20.1-3.5.2.jar",
       "category": "Contenido",
       "size": 1846318,
       "id": "702388588",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/mysticsbiomes-fabric-1.20.1-3.5.2.jar"
+    },
+    {
+      "file": "Notes-1.20.1-2.1.0-fabric.jar",
+      "category": "Contenido",
+      "size": 63929,
+      "id": "718703401",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/Notes-1.20.1-2.1.0-fabric.jar"
     },
     {
       "file": "npc_watchers-1.0.0.jar",
@@ -316,6 +384,13 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/scholar-1.20.1-1.2.9-fabric.jar"
     },
     {
+      "file": "scroll-for-worldedit-1.1.4.jar",
+      "category": "Contenido",
+      "size": 30754,
+      "id": "718703472",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/scroll-for-worldedit-1.1.4.jar"
+    },
+    {
       "file": "SereneSeasons-fabric-1.20.1-9.1.0.3.jar",
       "category": "Contenido",
       "size": 383980,
@@ -328,6 +403,20 @@
       "size": 5315563,
       "id": "702390214",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/snowyspirit-1.20-3.0.10-fabric.jar"
+    },
+    {
+      "file": "SomeMoreBlocks_fabric-1.20.1-1.0.7-bp.jar",
+      "category": "Contenido",
+      "size": 3284137,
+      "id": "718705148",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/SomeMoreBlocks_fabric-1.20.1-1.0.7-bp.jar"
+    },
+    {
+      "file": "soulful_nether-1.0.0.jar",
+      "category": "Contenido",
+      "size": 181024,
+      "id": "718705564",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/soulful_nether-1.0.0.jar"
     },
     {
       "file": "trinkets-3.7.2.jar",
@@ -400,6 +489,20 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/architectury-9.2.14-fabric.jar"
     },
     {
+      "file": "azurelib-fabric-1.20.1-3.2.7.jar",
+      "category": "Librerías",
+      "size": 1532557,
+      "id": "718703554",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/azurelib-fabric-1.20.1-3.2.7.jar"
+    },
+    {
+      "file": "balm-fabric-1.20.1-7.3.44.jar",
+      "category": "Librerías",
+      "size": 576169,
+      "id": "718703671",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/balm-fabric-1.20.1-7.3.44.jar"
+    },
+    {
       "file": "cloth-config-11.1.136-fabric.jar",
       "category": "Librerías",
       "size": 1172214,
@@ -428,11 +531,25 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/moonlight-1.20-2.16.37-fabric.jar"
     },
     {
+      "file": "Pehkui-3.8.3_1.14.4-1.21.jar",
+      "category": "Librerías",
+      "size": 555041,
+      "id": "718703779",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/Pehkui-3.8.3_1.14.4-1.21.jar"
+    },
+    {
       "file": "Platform-fabric-1.20.1-1.4.jar",
       "category": "Librerías",
       "size": 1045778,
       "id": "702351213",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/Platform-fabric-1.20.1-1.4.jar"
+    },
+    {
+      "file": "pneumonocore-1.3.1_1.20_A.jar",
+      "category": "Librerías",
+      "size": 161816,
+      "id": "718703878",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/pneumonocore-1.3.1_1.20_A.jar"
     },
     {
       "file": "TerraBlender-fabric-1.20.1-3.0.1.11.jar",
