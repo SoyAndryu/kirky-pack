@@ -1,11 +1,16 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 32,
+  "version": 33,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T00:23:19.710Z",
-  "news": null,
+  "updated": "2026-11-07T00:28:36.610Z",
+  "news": {
+    "id": "mw5o0n7m",
+    "title": "test",
+    "description": "",
+    "date": "2026-11-07T00:28:36.610Z"
+  },
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -143,8 +148,8 @@
     {
       "file": "extremo-1.0.0.jar",
       "category": "Contenido",
-      "size": 978877,
-      "id": "707104835",
+      "size": 706564,
+      "id": "719076184",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/extremo-1.0.0.jar"
     },
     {
@@ -311,8 +316,8 @@
     {
       "file": "npc_watchers-1.0.0.jar",
       "category": "Contenido",
-      "size": 537037,
-      "id": "706947728",
+      "size": 537374,
+      "id": "719076313",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/npc_watchers-1.0.0.jar"
     },
     {
