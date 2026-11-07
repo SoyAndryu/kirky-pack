@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 46,
+  "version": 47,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T23:03:12.118Z",
+  "updated": "2026-11-07T23:33:15.911Z",
   "news": {
-    "id": "mw70ensl",
-    "title": "NUEVO CONTENIDO",
-    "description": "- Se ha añadido un mod de staff",
-    "date": "2026-11-07T23:03:12.117Z"
+    "id": "mw71hblw",
+    "title": "OLVIDE SACAR UN MOD",
+    "description": "ya pueden jugar\n- removimos jennys mod",
+    "date": "2026-11-07T23:33:15.908Z"
   },
   "mods": [
     {
@@ -146,13 +146,6 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fabric-language-kotlin-1.14.2_kotlin.2.4.21.jar"
     },
     {
-      "file": "fancymenu_fabric_3.9.14_MC_1.20.1.jar",
-      "category": "Contenido",
-      "size": 26225066,
-      "id": "704072728",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fancymenu_fabric_3.9.14_MC_1.20.1.jar"
-    },
-    {
       "file": "faunify-fabric-1.20.1-1.3.3.jar",
       "category": "Contenido",
       "size": 5654847,
@@ -263,13 +256,6 @@
       "size": 308582,
       "id": "702388293",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/loot_journal-fabric-1.20.1-6.2.2.jar"
-    },
-    {
-      "file": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
-      "category": "Contenido",
-      "size": 39696,
-      "id": "704084036",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
     },
     {
       "file": "midnightlib-fabric-1.9.3_1.20.1.jar",
