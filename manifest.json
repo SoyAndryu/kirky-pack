@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 38,
+  "version": 39,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T16:24:23.406Z",
+  "updated": "2026-11-07T16:28:11.086Z",
   "news": {
-    "id": "mw6m5sa6",
-    "title": "oye ded",
+    "id": "mw6manyl",
+    "title": "last",
     "description": "",
-    "date": "2026-11-07T16:24:23.406Z"
+    "date": "2026-11-07T16:28:11.085Z"
   },
   "mods": [
     {
@@ -333,13 +333,6 @@
       "size": 570774,
       "id": "702389839",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/ricksportalgun-fabric-1.20.1-1.4.10.jar"
-    },
-    {
-      "file": "rottenflesh-to-leather_1-20-x.jar",
-      "category": "Contenido",
-      "size": 19700,
-      "id": "702352768",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/rottenflesh-to-leather_1-20-x.jar"
     },
     {
       "file": "scholar-1.20.1-1.2.9-fabric.jar",
