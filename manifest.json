@@ -1,11 +1,16 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 40,
+  "version": 41,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T17:57:29.048Z",
-  "news": null,
+  "updated": "2026-11-07T18:23:08.631Z",
+  "news": {
+    "id": "mw6qei53",
+    "title": "test",
+    "description": "",
+    "date": "2026-11-07T18:23:08.631Z"
+  },
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -129,8 +134,8 @@
     {
       "file": "extremo-1.0.0.jar",
       "category": "Contenido",
-      "size": 1390754,
-      "id": "721476123",
+      "size": 1399369,
+      "id": "721542514",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/extremo-1.0.0.jar"
     },
     {
