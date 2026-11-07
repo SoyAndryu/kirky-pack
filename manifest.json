@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 36,
+  "version": 37,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T16:13:57.359Z",
+  "updated": "2026-11-07T16:17:38.231Z",
   "news": {
-    "id": "mw6lsd7z",
-    "title": "LLAMANDO A TODOS LOS VILLANOS",
+    "id": "mw6lx3nb",
+    "title": "dios wey",
     "description": "",
-    "date": "2026-11-07T16:13:57.359Z"
+    "date": "2026-11-07T16:17:38.231Z"
   },
   "mods": [
     {
@@ -144,13 +144,6 @@
       "size": 8142878,
       "id": "702385076",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fabric-language-kotlin-1.14.2_kotlin.2.4.21.jar"
-    },
-    {
-      "file": "fabricguard-1.6.2_1_.jar",
-      "category": "Contenido",
-      "size": 124618,
-      "id": "711604133",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/fabricguard-1.6.2_1_.jar"
     },
     {
       "file": "fancymenu_fabric_3.9.14_MC_1.20.1.jar",
