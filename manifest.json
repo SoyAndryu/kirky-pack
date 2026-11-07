@@ -1,11 +1,16 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 29,
+  "version": 30,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T00:22:14.812Z",
-  "news": null,
+  "updated": "2026-11-07T00:22:47.952Z",
+  "news": {
+    "id": "mw5nt66n",
+    "title": "s",
+    "description": "",
+    "date": "2026-11-07T00:22:47.951Z"
+  },
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -244,6 +249,13 @@
       "size": 4818521,
       "id": "702387331",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/jei-1.20.1-fabric-15.74.0.233.jar"
+    },
+    {
+      "file": "kirkycoin-1.0.0.jar",
+      "category": "Contenido",
+      "size": 486144,
+      "id": "719063101",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkycoin-1.0.0.jar"
     },
     {
       "file": "kirkywelcome-1.0.0.jar",
