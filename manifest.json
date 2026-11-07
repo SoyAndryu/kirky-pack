@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 47,
+  "version": 48,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T23:33:15.911Z",
+  "updated": "2026-11-07T23:54:09.767Z",
   "news": {
-    "id": "mw71hblw",
-    "title": "OLVIDE SACAR UN MOD",
-    "description": "ya pueden jugar\n- removimos jennys mod",
-    "date": "2026-11-07T23:33:15.908Z"
+    "id": "mw728735",
+    "title": "PERDON",
+    "description": "",
+    "date": "2026-11-07T23:54:09.762Z"
   },
   "mods": [
     {
@@ -116,13 +116,6 @@
       "size": 2847779,
       "id": "702354881",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/CustomPlayerModels-Fabric-1.20-0.6.27a.jar"
-    },
-    {
-      "file": "drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar",
-      "category": "Contenido",
-      "size": 277393,
-      "id": "704072670",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar"
     },
     {
       "file": "extrasounds-1.5.6_1.20.1-fabric.jar",
