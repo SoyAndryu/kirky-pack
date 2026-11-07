@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 45,
+  "version": 46,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T22:06:44.413Z",
+  "updated": "2026-11-07T23:03:12.118Z",
   "news": {
-    "id": "mw6ye1to",
-    "title": "PROBANDO NUEVO",
-    "description": "MENSAJE DE AVISO",
-    "date": "2026-11-07T22:06:44.413Z"
+    "id": "mw70ensl",
+    "title": "NUEVO CONTENIDO",
+    "description": "- Se ha añadido un mod de staff",
+    "date": "2026-11-07T23:03:12.117Z"
   },
   "mods": [
     {
@@ -223,18 +223,18 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/jei-1.20.1-fabric-15.74.0.233.jar"
     },
     {
+      "file": "keylock-1.0.0.jar",
+      "category": "Contenido",
+      "size": 25414,
+      "id": "722217998",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/keylock-1.0.0.jar"
+    },
+    {
       "file": "kirkycoin-1.0.0.jar",
       "category": "Contenido",
       "size": 494773,
       "id": "721876367",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkycoin-1.0.0.jar"
-    },
-    {
-      "file": "kirkymisiones-1.0.0.jar",
-      "category": "Contenido",
-      "size": 45339,
-      "id": "721876293",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/kirkymisiones-1.0.0.jar"
     },
     {
       "file": "kirkywelcome-1.0.0.jar",
