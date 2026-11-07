@@ -1,16 +1,11 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 30,
+  "version": 31,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T00:22:47.952Z",
-  "news": {
-    "id": "mw5nt66n",
-    "title": "s",
-    "description": "",
-    "date": "2026-11-07T00:22:47.951Z"
-  },
+  "updated": "2026-11-07T00:23:03.137Z",
+  "news": null,
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -95,13 +90,6 @@
       "size": 467446,
       "id": "718703987",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/ChatReworked-fabric-1.20.1-1.3.5.jar"
-    },
-    {
-      "file": "chimptopia-1.0.0.jar",
-      "category": "Contenido",
-      "size": 437915,
-      "id": "718502680",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/chimptopia-1.0.0.jar"
     },
     {
       "file": "codxlib-1.6.1-fabric_1.20.1.jar",
