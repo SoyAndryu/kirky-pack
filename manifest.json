@@ -1,11 +1,16 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 34,
+  "version": 35,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T04:50:41.915Z",
-  "news": null,
+  "updated": "2026-11-07T16:13:13.054Z",
+  "news": {
+    "id": "mw6lrf1a",
+    "title": "CUST",
+    "description": "",
+    "date": "2026-11-07T16:13:13.054Z"
+  },
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -111,13 +116,6 @@
       "size": 2847779,
       "id": "702354881",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/CustomPlayerModels-Fabric-1.20-0.6.27a.jar"
-    },
-    {
-      "file": "customskyboxes-mc1_20_1-1.0.3.1.jar",
-      "category": "Contenido",
-      "size": 104585,
-      "id": "702355124",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/customskyboxes-mc1_20_1-1.0.3.1.jar"
     },
     {
       "file": "death_keeper-1.0b-fabric.jar",
