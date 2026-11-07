@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 35,
+  "version": 36,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T16:13:13.054Z",
+  "updated": "2026-11-07T16:13:57.359Z",
   "news": {
-    "id": "mw6lrf1a",
-    "title": "CUST",
+    "id": "mw6lsd7z",
+    "title": "LLAMANDO A TODOS LOS VILLANOS",
     "description": "",
-    "date": "2026-11-07T16:13:13.054Z"
+    "date": "2026-11-07T16:13:57.359Z"
   },
   "mods": [
     {
@@ -116,13 +116,6 @@
       "size": 2847779,
       "id": "702354881",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/CustomPlayerModels-Fabric-1.20-0.6.27a.jar"
-    },
-    {
-      "file": "death_keeper-1.0b-fabric.jar",
-      "category": "Contenido",
-      "size": 48586,
-      "id": "702384733",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/death_keeper-1.0b-fabric.jar"
     },
     {
       "file": "drippyloadingscreen_fabric_3.1.5_MC_1.20.1.jar",
