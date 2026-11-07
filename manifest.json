@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 44,
+  "version": 45,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T20:41:06.799Z",
+  "updated": "2026-11-07T22:06:44.413Z",
   "news": {
-    "id": "mw6vbxm6",
-    "title": "CASI FINAL",
-    "description": "FALTA UNO",
-    "date": "2026-11-07T20:41:06.798Z"
+    "id": "mw6ye1to",
+    "title": "PROBANDO NUEVO",
+    "description": "MENSAJE DE AVISO",
+    "date": "2026-11-07T22:06:44.413Z"
   },
   "mods": [
     {
