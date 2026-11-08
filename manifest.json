@@ -4,13 +4,8 @@
   "version": 49,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-08T05:21:53.652Z",
-  "news": {
-    "id": "mw7dxnuc",
-    "title": "Test",
-    "description": "[??]",
-    "date": "2026-11-08T05:21:53.652Z"
-  },
+  "updated": "2026-11-08T05:25:53.947Z",
+  "news": null,
   "mods": [
     {
       "file": "animated-cats-1.20.1-fabric-1.0.0.jar",
@@ -373,7 +368,7 @@
       "file": "VanillaBackport-fabric-1.20.1-1.2.2.jar",
       "category": "Contenido",
       "size": 65382622,
-      "id": "722984324",
+      "id": "722991827",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/VanillaBackport-fabric-1.20.1-1.2.2.jar"
     },
     {
