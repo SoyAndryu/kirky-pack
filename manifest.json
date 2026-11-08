@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 48,
+  "version": 49,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-07T23:58:38.264Z",
+  "updated": "2026-11-08T05:21:53.652Z",
   "news": {
-    "id": "mw72dy9k",
-    "title": "REMOVER",
-    "description": "DIVIERTANSE",
-    "date": "2026-11-07T23:58:38.264Z"
+    "id": "mw7dxnuc",
+    "title": "Test",
+    "description": "[??]",
+    "date": "2026-11-08T05:21:53.652Z"
   },
   "mods": [
     {
@@ -368,6 +368,13 @@
       "size": 56814,
       "id": "702390765",
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/undertale-dialogue-1.3.0.jar"
+    },
+    {
+      "file": "VanillaBackport-fabric-1.20.1-1.2.2.jar",
+      "category": "Contenido",
+      "size": 65382622,
+      "id": "722984324",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/VanillaBackport-fabric-1.20.1-1.2.2.jar"
     },
     {
       "file": "voicechat-fabric-1.20.1-2.6.24.jar",
