@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "name": "Modpack",
-  "version": 49,
+  "version": 50,
   "minecraft": "1.20.1",
   "loader": "",
-  "updated": "2026-11-08T05:25:53.947Z",
+  "updated": "2026-11-11T04:34:13.204Z",
   "news": null,
   "mods": [
     {
@@ -400,11 +400,11 @@
       "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/xercapaint-fabric-1.20.1-2.0.0.jar"
     },
     {
-      "file": "yk-implementations-1.3.1.jar",
+      "file": "yk-implementations-1.5.0.jar",
       "category": "Contenido",
-      "size": 96015,
-      "id": "719644722",
-      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/yk-implementations-1.3.1.jar"
+      "size": 130697,
+      "id": "734136684",
+      "url": "https://github.com/SoyAndryu/kirky-pack/releases/download/pack-files/yk-implementations-1.5.0.jar"
     },
     {
       "file": "zoneguard-1.0.0.jar",
